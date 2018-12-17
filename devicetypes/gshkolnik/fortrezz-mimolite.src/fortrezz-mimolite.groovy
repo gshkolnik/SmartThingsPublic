@@ -15,7 +15,7 @@
  *  Based on Fortrezz Mimolite implementation
  */
 metadata {
-	definition (name: "FortrezZ MIMOlite", namespace: "fortrezz", author: "FortrezZ, LLC") {
+	definition (name: "FortrezZ MIMOlite", namespace: "gshkolnik", author: "FortrezZ, LLC") {
 		capability "Configuration"
 		capability "Switch"
 		capability "Refresh"
